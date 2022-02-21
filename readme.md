@@ -9,7 +9,7 @@ no.
 
 # Let's say I refuse to host this bot so it can be up on demand. Is there anyway to invite it?
 [yes](https://discord.com/api/oauth2/authorize?client_id=945295730963271691&permissions=328768&scope=bot) although this is hosted on my machine so itll hardly be up. dont create issues complaining "hey the bot is never up!!!!" because i will close with comment telling you to host it yourself.
-
+oh yeah also dont make tons of junk servers and invite it otherwise i have to get this shitpost verified. discord will probably just tell me to fuck off and wont verify it so yeah.
 ## planned features:
 - [ ] large al sneed
 - [x] more reaction spam
