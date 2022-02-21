@@ -18,7 +18,6 @@ tendencies.")
 
 @bot.event
 async def on_message(message):
-    channel = message.channel
     if 'sneed' in message.content.lower():
         await message.add_reaction(":sneedcube:945303603319537705")
 
